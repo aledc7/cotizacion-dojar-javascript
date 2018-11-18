@@ -2,7 +2,8 @@
 
 
 
-### este código consume la siguiente API:  http://ws.geeklab.com.ar/dolar/get-dolar-json.php
+### este código consume la siguiente API:  
+http://ws.geeklab.com.ar/dolar/get-dolar-json.php
 
 
 La api es consumida con javascript, luego mostrada en pantalla.
