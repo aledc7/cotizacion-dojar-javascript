@@ -1,8 +1,10 @@
-# cotizacion-dojar-javascript
+# Cotizacion-dojar-javascript
 
 
+### Cotización del dolar Oficial 
 
-### este código consume la siguiente API:  
+
+### el código consume la siguiente API:  
 http://ws.geeklab.com.ar/dolar/get-dolar-json.php
 
 
